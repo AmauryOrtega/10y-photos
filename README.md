@@ -1,3 +1,4 @@
+<!--
 <img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
 
 # Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
@@ -77,3 +78,8 @@ Proudly sponsored by [Presentify](http://presentify.compzets.com?ref=GitHub), [T
 ---
 
 _P.S. For any queries or concerns, you can reach out to me on [Twitter](https://twitter.com/ram__patra). I'll try my best to help 🙏._
+
+-->
+
+# 10Ys' Personal Photos (2014-2024)
+
